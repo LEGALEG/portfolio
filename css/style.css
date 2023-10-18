@@ -33,6 +33,10 @@ section {
   /* margin-left: 20rem; */
 }
 
+nav {
+  z-index: 9999;
+}
+
 .skill .content {
   margin-left: 5rem;
 }
